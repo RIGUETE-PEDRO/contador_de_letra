@@ -1,6 +1,7 @@
 # Contador de Letras
 
-![Descrição da Imagem](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnl3ZXRoN3BnN2kyem00YTE1dXd1cTd3ZTBlbXRkNWN5ZjZtcjIyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMINTLCSOGdIyEo/giphy.gif)\n
+![Descrição da Imagem](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnl3ZXRoN3BnN2kyem00YTE1dXd1cTd3ZTBlbXRkNWN5ZjZtcjIyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMINTLCSOGdIyEo/giphy.gif)
+#
 Este é um programa simples em C que conta a ocorrência de uma letra específica em uma string fornecida pelo usuário.
 
 ## Como usar
