@@ -20,3 +20,5 @@ Este é um programa simples em C que conta a ocorrência de uma letra específic
     - Digite a string onde a contagem será realizada.
 
 ## Exemplo de Uso
+
+digite a letra que vc quer contar: a Digite uma string: banana A letra 'a' aparece 3 vezes na string.
