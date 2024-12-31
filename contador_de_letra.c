@@ -4,14 +4,18 @@
 int main() {
     char texto[100];
     int i, contador = 0;
+    char letra_comparada;
 
+    printf("digite a letra que vc quer contar");
+    scanf("%c", &letra_comparada);
     // Entrada da string pelo usuário
     printf("Digite uma string: ");
     fgets(texto, sizeof(texto), stdin);
 
+
     // Contando a ocorrência de 'a' ou 'A'
     for (i = 0; i < strlen(texto); i++) {
-        if (texto[i] == 'a' || texto[i] == 'A') {
+        if (texto[i] == letra_comparada || texto[i] == 'A') {
             contador++;
         }
     }
